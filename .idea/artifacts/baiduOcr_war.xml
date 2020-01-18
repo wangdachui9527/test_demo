@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baiduOcr:war">
+    <output-path>$PROJECT_DIR$/baiduOcr/target</output-path>
+    <root id="archive" name="baiduOcr.war">
+      <element id="artifact" artifact-name="baiduOcr:war exploded" />
+    </root>
+  </artifact>
+</component>
